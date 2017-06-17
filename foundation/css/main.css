@@ -1,0 +1,15 @@
+.fondo-menu
+{
+  background-color: #101A26;
+  background-size: cover;
+}
+
+.menu-text
+{
+  font-size: 25px;
+}
+
+
+a{
+  color: #007FFF;
+}
