@@ -2,6 +2,11 @@
 {
   background-color: #101A26;
   background-size: cover;
+  padding-top: 1em;
+}
+
+.thumbnail{
+  border: none;
 }
 
 .menu-text
